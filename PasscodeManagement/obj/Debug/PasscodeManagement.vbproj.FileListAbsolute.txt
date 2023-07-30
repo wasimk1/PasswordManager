@@ -1,0 +1,12 @@
+E:\PROJECTS\VS\PasscodeManagement\bin\Debug\PasscodeManagement.exe.config
+E:\PROJECTS\VS\PasscodeManagement\bin\Debug\PasscodeManagement.exe
+E:\PROJECTS\VS\PasscodeManagement\bin\Debug\PasscodeManagement.pdb
+E:\PROJECTS\VS\PasscodeManagement\bin\Debug\PasscodeManagement.xml
+E:\PROJECTS\VS\PasscodeManagement\obj\Debug\PasscodeManagement.vbproj.AssemblyReference.cache
+E:\PROJECTS\VS\PasscodeManagement\obj\Debug\PasscodeManagement.Form1.resources
+E:\PROJECTS\VS\PasscodeManagement\obj\Debug\PasscodeManagement.Resources.resources
+E:\PROJECTS\VS\PasscodeManagement\obj\Debug\PasscodeManagement.vbproj.GenerateResource.cache
+E:\PROJECTS\VS\PasscodeManagement\obj\Debug\PasscodeManagement.vbproj.CoreCompileInputs.cache
+E:\PROJECTS\VS\PasscodeManagement\obj\Debug\PasscodeManagement.exe
+E:\PROJECTS\VS\PasscodeManagement\obj\Debug\PasscodeManagement.xml
+E:\PROJECTS\VS\PasscodeManagement\obj\Debug\PasscodeManagement.pdb
